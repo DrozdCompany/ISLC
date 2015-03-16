@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ISLC:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="islc-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ISLC:war exploded" />
+    </root>
+  </artifact>
+</component>
